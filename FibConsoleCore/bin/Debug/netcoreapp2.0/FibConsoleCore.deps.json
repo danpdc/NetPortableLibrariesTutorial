@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "0517da20a2351e151b864675cb2488edf5590591"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "FibConsoleCore/1.0.0": {
+        "dependencies": {
+          "Dummy1": "1.0.0"
+        },
+        "runtime": {
+          "FibConsoleCore.dll": {}
+        }
+      },
+      "Dummy1/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/Dummy1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FibConsoleCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dummy1/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-os9I17C5Jfo5UGn8xfPujqq3xXzeO1efC4b7NRICNSpUySEUShIlwmV8y5S/BBfzYPs8JImEoC3njVk/ss3Q7A==",
+      "path": "dummy1/1.0.0",
+      "hashPath": "dummy1.1.0.0.nupkg.sha512"
+    }
+  }
+}

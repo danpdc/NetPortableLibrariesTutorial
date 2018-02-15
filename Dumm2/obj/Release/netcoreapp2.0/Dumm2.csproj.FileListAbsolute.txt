@@ -1,0 +1,9 @@
+C:\Users\dan.patrascu\Source\Repos\packages\netcoreapp2.0\Dumm2.deps.json
+C:\Users\dan.patrascu\Source\Repos\packages\netcoreapp2.0\Dumm2.dll
+C:\Users\dan.patrascu\Source\Repos\packages\netcoreapp2.0\Dumm2.pdb
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\Dumm2\obj\Release\netcoreapp2.0\Dumm2.csprojResolveAssemblyReference.cache
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\Dumm2\obj\Release\netcoreapp2.0\Dumm2.csproj.CoreCompileInputs.cache
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\Dumm2\obj\Release\netcoreapp2.0\Dumm2.AssemblyInfoInputs.cache
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\Dumm2\obj\Release\netcoreapp2.0\Dumm2.AssemblyInfo.cs
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\Dumm2\obj\Release\netcoreapp2.0\Dumm2.dll
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\Dumm2\obj\Release\netcoreapp2.0\Dumm2.pdb

@@ -1,0 +1,12 @@
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\Dummy1\bin\Release\netstandard2.0\Dummy1.deps.json
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\Dummy1\bin\Release\netstandard2.0\Dummy1.dll
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\Dummy1\bin\Release\netstandard2.0\Dummy1.pdb
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\Dummy1\obj\Release\netstandard2.0\Dummy1.csprojResolveAssemblyReference.cache
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\Dummy1\obj\Release\netstandard2.0\Dummy1.csproj.CoreCompileInputs.cache
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\Dummy1\obj\Release\netstandard2.0\Dummy1.AssemblyInfoInputs.cache
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\Dummy1\obj\Release\netstandard2.0\Dummy1.AssemblyInfo.cs
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\Dummy1\obj\Release\netstandard2.0\Dummy1.dll
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\Dummy1\obj\Release\netstandard2.0\Dummy1.pdb
+C:\Users\dan.patrascu\Source\Repos\packages\netstandard2.0\Dummy1.deps.json
+C:\Users\dan.patrascu\Source\Repos\packages\netstandard2.0\Dummy1.dll
+C:\Users\dan.patrascu\Source\Repos\packages\netstandard2.0\Dummy1.pdb

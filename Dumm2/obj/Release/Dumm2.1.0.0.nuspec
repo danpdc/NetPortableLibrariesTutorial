@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Dumm2</id>
+    <version>1.0.0</version>
+    <authors>Dumm2</authors>
+    <owners>Dumm2</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\dan.patrascu\Source\Repos\packages\netcoreapp2.0\Dumm2.dll" target="lib\netcoreapp2.0\Dumm2.dll" />
+  </files>
+</package>

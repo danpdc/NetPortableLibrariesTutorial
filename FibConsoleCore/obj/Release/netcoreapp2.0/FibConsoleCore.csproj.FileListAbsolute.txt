@@ -1,0 +1,11 @@
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\FibConsoleCore\bin\Release\netcoreapp2.0\FibConsoleCore.deps.json
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\FibConsoleCore\bin\Release\netcoreapp2.0\FibConsoleCore.runtimeconfig.json
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\FibConsoleCore\bin\Release\netcoreapp2.0\FibConsoleCore.runtimeconfig.dev.json
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\FibConsoleCore\bin\Release\netcoreapp2.0\FibConsoleCore.dll
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\FibConsoleCore\obj\Release\netcoreapp2.0\FibConsoleCore.csprojResolveAssemblyReference.cache
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\FibConsoleCore\obj\Release\netcoreapp2.0\FibConsoleCore.csproj.CoreCompileInputs.cache
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\FibConsoleCore\obj\Release\netcoreapp2.0\FibConsoleCore.AssemblyInfoInputs.cache
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\FibConsoleCore\obj\Release\netcoreapp2.0\FibConsoleCore.AssemblyInfo.cs
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\FibConsoleCore\bin\Release\netcoreapp2.0\FibConsoleCore.pdb
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\FibConsoleCore\obj\Release\netcoreapp2.0\FibConsoleCore.dll
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\FibConsoleCore\obj\Release\netcoreapp2.0\FibConsoleCore.pdb

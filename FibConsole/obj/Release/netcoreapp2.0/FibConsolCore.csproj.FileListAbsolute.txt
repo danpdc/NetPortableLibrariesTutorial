@@ -1,0 +1,7 @@
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\FibConsole\bin\Release\netcoreapp2.0\FibConsolCore.deps.json
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\FibConsole\bin\Release\netcoreapp2.0\FibConsolCore.runtimeconfig.json
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\FibConsole\bin\Release\netcoreapp2.0\FibConsolCore.runtimeconfig.dev.json
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\FibConsole\bin\Release\netcoreapp2.0\FibConsolCore.dll
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\FibConsole\obj\Release\netcoreapp2.0\FibConsolCore.csproj.CoreCompileInputs.cache
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\FibConsole\obj\Release\netcoreapp2.0\FibConsolCore.AssemblyInfoInputs.cache
+c:\users\dan.patrascu\documents\visual studio 2017\Projects\LibrariesTutorial\FibConsole\obj\Release\netcoreapp2.0\FibConsolCore.AssemblyInfo.cs

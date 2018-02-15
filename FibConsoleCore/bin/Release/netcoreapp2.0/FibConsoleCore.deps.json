@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "8ad26ae4300f1b52f630dfec50c2018fa91cad01"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "FibConsoleCore/1.0.0": {
+        "dependencies": {
+          "Dumm2": "1.0.0"
+        },
+        "runtime": {
+          "FibConsoleCore.dll": {}
+        }
+      },
+      "Dumm2/1.0.0": {
+        "runtime": {
+          "lib/netcoreapp2.0/Dumm2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FibConsoleCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dumm2/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YVUc9kshOHB0R2L9kZwakNXzmdrZglcF5eA7hM0AM1MWSYBExlnFcrSrbCUebcHdh5QpzhLQ34sRGNDRioSQ4g==",
+      "path": "dumm2/1.0.0",
+      "hashPath": "dumm2.1.0.0.nupkg.sha512"
+    }
+  }
+}

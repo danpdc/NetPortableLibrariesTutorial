@@ -1,0 +1,11 @@
+C:\Users\dan.patrascu\Source\Repos\NetPortableLibrariesTutorial\FibConsoleCore\bin\Debug\netcoreapp2.0\FibConsoleCore.deps.json
+C:\Users\dan.patrascu\Source\Repos\NetPortableLibrariesTutorial\FibConsoleCore\bin\Debug\netcoreapp2.0\FibConsoleCore.runtimeconfig.json
+C:\Users\dan.patrascu\Source\Repos\NetPortableLibrariesTutorial\FibConsoleCore\bin\Debug\netcoreapp2.0\FibConsoleCore.runtimeconfig.dev.json
+C:\Users\dan.patrascu\Source\Repos\NetPortableLibrariesTutorial\FibConsoleCore\bin\Debug\netcoreapp2.0\FibConsoleCore.dll
+C:\Users\dan.patrascu\Source\Repos\NetPortableLibrariesTutorial\FibConsoleCore\obj\Debug\netcoreapp2.0\FibConsoleCore.csprojResolveAssemblyReference.cache
+C:\Users\dan.patrascu\Source\Repos\NetPortableLibrariesTutorial\FibConsoleCore\obj\Debug\netcoreapp2.0\FibConsoleCore.csproj.CoreCompileInputs.cache
+C:\Users\dan.patrascu\Source\Repos\NetPortableLibrariesTutorial\FibConsoleCore\obj\Debug\netcoreapp2.0\FibConsoleCore.AssemblyInfoInputs.cache
+C:\Users\dan.patrascu\Source\Repos\NetPortableLibrariesTutorial\FibConsoleCore\obj\Debug\netcoreapp2.0\FibConsoleCore.AssemblyInfo.cs
+C:\Users\dan.patrascu\Source\Repos\NetPortableLibrariesTutorial\FibConsoleCore\bin\Debug\netcoreapp2.0\FibConsoleCore.pdb
+C:\Users\dan.patrascu\Source\Repos\NetPortableLibrariesTutorial\FibConsoleCore\obj\Debug\netcoreapp2.0\FibConsoleCore.dll
+C:\Users\dan.patrascu\Source\Repos\NetPortableLibrariesTutorial\FibConsoleCore\obj\Debug\netcoreapp2.0\FibConsoleCore.pdb
